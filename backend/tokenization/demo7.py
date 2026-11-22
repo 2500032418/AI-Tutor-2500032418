@@ -1,0 +1,6 @@
+#Character level Tokenization
+text=input("Enter a Sentence:") or "I love learning python"
+print("Text:",text)
+print("Length of text:",len(text))
+Characters=list(text)
+print("Characters in the given text:",Characters)
